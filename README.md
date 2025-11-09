@@ -16,17 +16,27 @@ I'm passionate about working with data and uncovering insights through structure
 
 ## 🛠️ Project
 
-### 📊 Data Science Job Market Trend Analysis (Excel)
-Performed exploratory data analysis on job listings to identify trends in the data science field:
-- Cleaned and filtered raw data in **Microsoft Excel**
-- Used formulas, pivot tables, and charts for analysis
-- Explored hiring trends, job roles, and salary distributions
+### **Data Science Job Trends in India (Python)**
+- Performed EDA on job market data to identify top-paying roles, skill trends, and hiring patterns.
+- Visualized salary distributions and demand heatmaps to support career and workforce insights.
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
-📂 Tools: Excel (Pivot Tables, Charts, Data Cleaning)
+### **Workforce & Sales Intelligence Dashboard (Excel)**
+- Built an interactive dashboard to analyze sales performance, delivery metrics, and cancellation trends.
+- Implemented KPI indicators and dynamic slicers for comparative business analysis.
+Tools: Excel (Pivot Tables, Charts, Slicers, KPI Metrics)
 
-🔗 [View Project Repository](https://github.com/denger69/Data_Analytics_Project.git)
+### **Zepto Product Analysis (PostgreSQL + Python)**
+- Analyzed product pricing, discounts, stock levels, and category-level demand for supply optimization.
+- Utilized SQL for data extraction and Python for trend visualizations to support data-driven decisions.
+Tools: PostgreSQL, SQL (CTEs, Joins), Python (Pandas, Matplotlib)
 
+### **Data Analyst Job Market Analysis (SQL)**
+- Executed SQL queries to explore hiring trends, salary benchmarks, and skill demand in analytics roles.
+- Leveraged CTEs, aggregations, and window functions to generate actionable workforce insights.
+Tools: PostgreSQL, SQL, Visual Studio Code
 
+### **Additional Projects: Covid-19 Dashboard (Excel), Sales Performance Dashboard (Excel)**
 
 ## 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohitkumarsingh008/) 
