@@ -6,9 +6,13 @@ I'm passionate about working with data and uncovering insights through structure
 
 ## 🔧 Skills
 - **Languages:** Python, C++, C 
-- **Tools & Platforms:** Excel, Git, GitHub, VS Code, Excel  
+- **Tools & Platforms:** Excel, Git, GitHub, VS Code  
 - **Libraries (Learning):** Pandas, NumPy, Matplotlib, Seaborn
 - **Web Basics:** HTML, CSS, JavaScript
+- **Data Analytics & Visualization:** Excel, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
+- **Database Management:** SQL, MySQL, PostgreSQL
+- **Computer Science Fundamentals:** Data Structures & Algorithms (DSA), SDLC, OS, Computer Networks
+
 
 ## 🛠️ Project
 
