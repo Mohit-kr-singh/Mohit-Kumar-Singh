@@ -36,6 +36,15 @@ Tools: PostgreSQL, SQL (CTEs, Joins), Python (Pandas, Matplotlib)
 - Leveraged CTEs, aggregations, and window functions to generate actionable workforce insights.
 Tools: PostgreSQL, SQL, Visual Studio Code
 
+### **Financial Performance Analysis | SQL, Python, Power BI, Excel**
+
+- Performed end-to-end financial data analysis using SQL and Python, including KPI calculation, data validation, and exploratory data analysis (EDA) to evaluate revenue, expenses, and profit trends.
+
+- Developed 14+ SQL queries (CTEs, joins, aggregations) and conducted statistical hypothesis testing to generate actionable insights and identify revenue concentration, cost inefficiencies, and margin risks.
+
+- Built an interactive Power BI dashboard for KPI tracking and data visualization, enabling data-driven decision-making and strategic business recommendations.
+
+
 ### **Additional Projects: Covid-19 Dashboard (Excel), Sales Performance Dashboard (Excel)**
 
 ## 📫 How to reach me
